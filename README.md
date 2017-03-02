@@ -11,7 +11,8 @@ pip install list
 - [gunicorn](https://github.com/benoitc/gunicorn)
 - [meinheld](https://github.com/mopemope/meinheld)
 
-```pythonimport flask
+```python
+import flask
 import bottle
 
 app = flask.Flask(__name__)
